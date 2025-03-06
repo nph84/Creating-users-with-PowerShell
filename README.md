@@ -30,15 +30,15 @@ This tutorial outlines the process of creating multiple users in Active Director
 <img src="https://github.com/user-attachments/assets/7a6ae69d-91be-47a2-96db-192ac870feb3" height="80%" width="80%" />
 </p>
 <p>
-First, we will log into the client PC as the administrator created in the last step
+First, we will log into the client PC as the administrator created in the last step.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/9ae9f14f-31d2-4634-a3ef-3d734a46ec90" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Navigate to remote desktop by right clicking on the start button and clicking on "System".
 </p>
 <br />
 
