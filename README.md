@@ -11,7 +11,6 @@ This tutorial outlines the process of creating multiple users in Active Director
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
-- PowerShell
 
 <h2>Operating Systems Used </h2>
 
