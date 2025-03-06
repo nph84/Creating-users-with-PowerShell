@@ -11,6 +11,7 @@ This tutorial outlines the process of creating multiple users in Active Director
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
+- Power Shell
 
 <h2>Operating Systems Used </h2>
 
@@ -51,3 +52,75 @@ Navigate to remote desktop by right-clicking on the start button and clicking on
 All members of the domain now have access to the client PC via remote desktop.
 </p>
 <br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/882d2461-8e7b-4cf0-bf7d-400722a27377" height="80%" width="80%" />
+</p>
+<p>
+Next, we will log into the domain PC as the previously created administrator and open PowerShell ISE as an administrator.
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/882d2461-8e7b-4cf0-bf7d-400722a27377" height="80%" width="80%" />
+</p>
+<p>
+Now, we are going to copy the contents of a script into a newly created PowerShell file to run that script.
+</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
