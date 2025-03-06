@@ -119,7 +119,9 @@ Next, we're going to open Active Directory and observe the accounts in the appro
 
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/81a3934a-bd8f-4beb-8798-b97d0ebc169f" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/9d162c1e-613f-4f7a-b98b-05849de447bd" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/bf9d90c2-2076-4817-9035-9f932b6e95ed" height="80%" width="80%" />
 </p>
 <p>
 Finally, we'll log into the client PC with one of the newly created accounts.
