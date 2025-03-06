@@ -26,6 +26,8 @@ This tutorial outlines the process of creating multiple users in Active Director
 
 <h2>Deployment and Configuration Steps</h2>
 
+**Setup remote desktop for non-administrative users on client PC**
+
 <p>
 <img src="https://github.com/user-attachments/assets/7a6ae69d-91be-47a2-96db-192ac870feb3" height="80%" width="80%" />
 </p>
@@ -53,6 +55,8 @@ All members of the domain now have access to the client PC via remote desktop.
 </p>
 <br />
 
+
+**Create a lot of additional users and attempt to log into client PC with one of the users**
 
 <p>
 <img src="https://github.com/user-attachments/assets/882d2461-8e7b-4cf0-bf7d-400722a27377" height="80%" width="80%" />
