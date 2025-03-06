@@ -65,7 +65,7 @@ Next, we will log into the domain PC as the previously created administrator and
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/882d2461-8e7b-4cf0-bf7d-400722a27377" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/91a3dd34-762a-4c62-af27-b2025b3e6638" height="80%" width="80%" />
 </p>
 <p>
 Now, we are going to copy the contents of a script into a newly created PowerShell file to run that script.
@@ -74,15 +74,34 @@ Now, we are going to copy the contents of a script into a newly created PowerShe
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/d8a9d7e3-d263-4bf6-bf26-ee4110a9dc22" height="80%" width="80%" />
+</p>
+<p>
+Save the script on the desktop 
+</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/f4bdc473-1a39-422a-b078-0f960a6085a6" height="80%" width="80%" />
+</p>
+<p>
+Run the script.
+</p>
+<br />
 
 
 
 
-
-
-
-
-
+<p>
+<img src="https://github.com/user-attachments/assets/d857c30b-5d9f-446f-bc94-3241c8bc991b" height="80%" width="80%" />
+</p>
+<p>
+We have just created 100 users.
+</p>
+<br />
 
 
 
