@@ -107,7 +107,8 @@ We have just created 100 users.
 
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/6985e12c-0fdf-4362-a4f0-f34cc46c1fc1" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/aa9f711e-87d8-4e7f-90f0-480fc3f76fc0" height="80%" width="80%" />
 </p>
 <p>
 Next, we're going to open Active Directory and observe the accounts in the appropriate organizational unit.
