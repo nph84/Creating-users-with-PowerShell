@@ -38,16 +38,17 @@ First, we will log into the client PC as the administrator created in the last s
 <img src="https://github.com/user-attachments/assets/9ae9f14f-31d2-4634-a3ef-3d734a46ec90" height="80%" width="80%" />
 <img src="https://github.com/user-attachments/assets/e53db424-c726-40e7-8ef4-ad7ff03029ed" height="80%" width="80%" />
 <img src="https://github.com/user-attachments/assets/e1b965cc-3114-4869-9102-2e1dc789a1b8" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/c5b9562a-2490-4bdd-ba13-21d9da826576" height="80%" width="80%" />
 </p>
 <p>
-Navigate to remote desktop by right-clicking on the start button and clicking on "System" as we will be enabling domain users to access remote desktop.
+Navigate to remote desktop by right-clicking on the start button and clicking on "System" as we will be granting domain users access to remote desktop.
 </p>
 <br />
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/68a87e7a-59d6-4120-aab5-17f54c50da06" height="80%" width="80%" />
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+All members of the domain now have access to the client PC via remote desktop.
 </p>
 <br />
