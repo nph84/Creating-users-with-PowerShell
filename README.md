@@ -27,7 +27,7 @@ This tutorial outlines the process of creating multiple users in Active Director
 <h2>Deployment and Configuration Steps</h2>
 
 <p>
-<img src="" height="80%" width="80%" />
+<img src="https://github.com/user-attachments/assets/7a6ae69d-91be-47a2-96db-192ac870feb3" height="80%" width="80%" />
 </p>
 <p>
 First, we will log into the client PC as the administrator created in the last step
