@@ -106,9 +106,24 @@ We have just created 100 users.
 
 
 
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Next, we're going to open Active Directory and observe the accounts in the appropriate organizational unit.
+</p>
+<br />
 
 
 
+
+<p>
+<img src="" height="80%" width="80%" />
+</p>
+<p>
+Finally, we'll log into the client PC with one of the newly created accounts.
+</p>
+<br />
 
 
 
